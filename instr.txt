@@ -1,0 +1,3 @@
+g++ -c a1.cpp
+g++ a1.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+./sfml-app
